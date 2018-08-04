@@ -45,4 +45,5 @@
     android:layout_width="match_parent"
     android:layout_height="@dimen/SIZE_3"
     app:layout_constraintBottom_toBottomOf="parent"/>
+    app:srcCompat="@color/main_puple"/>
 </android.support.constraint.ConstraintLayout>
