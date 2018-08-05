@@ -5,6 +5,9 @@
     android:src="@drawable/sample_profile" />
   <stroke
     android:color="@color/main_purple"
+    android:src="@drawable/sample_profile" />
+  <stroke
+    android:color="@color/main_purple"
     android:width="1dp"/>
   <corners android:radius="10dp"/>
   <padding
