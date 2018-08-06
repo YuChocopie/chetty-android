@@ -42,8 +42,7 @@
   <View
     android:background="@color/gray1"
     android:id="@+id/view"
-    android:layout_width="match_parent"
     android:layout_height="@dimen/SIZE_3"
+    android:layout_width="match_parent"
     app:layout_constraintBottom_toBottomOf="parent"/>
-    app:srcCompat="@color/main_puple"/>
 </android.support.constraint.ConstraintLayout>
